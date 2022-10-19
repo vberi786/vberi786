@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding,Web Development.
 - 🌱 I’m currently learning DSA,HTML,CSS,REACT JS,NODE.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @vasu.beri on insta
+- 📫 How to reach me @vasu.beri786 on insta
 
 <!---
 vberi786/vberi786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
